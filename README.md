@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
  <div> 
 <!--YouTube-->
-  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCfm72qf2H8ze39A9mSAq-yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCfm72qf2H8ze39A9mSAq-yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <!--Instagram-->
   <a href="https://www.instagram.com/andersondsouza7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <!--Facebook-->
   <a href="https://www.facebook.com/anderson.desouza.5661/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <!--TikTok-->
-  <a href="https://andersondsouza.blogspot.com/2017/02/comecando-do-zero.html" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@andersondesouza09?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 <!--Discord-->
    <a href="[https://discord.gg/wagxzStdcR](https://discord.com/)](https://discord.com/)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <!--Gmail-->
