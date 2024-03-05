@@ -41,3 +41,52 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
+
+
+## Tecnologias que uso no meu dia 
+
+<div style="display: inlineblock"><br/>
+<img aling="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img aling="center" alt="css3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img aling="center" alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img aling="center" alt="JavaScript" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+Apaixonado por tecnologia, educação e por poder propcionar momentos importantes para as pessoas! 
+Atualmente estou aprendendo a programar
+
+
+
+## Projetos em desenvolvimento
+- <p>Projetos / Repositorio <a href="https://github.com/souzaseven?tab=repositories" target="blank">em Desenvolvimento </a>
+
+- <p>Cursos feitos/ <a href="https://github.com/souzaseven/Cursos" target=blank>  em andamento</a>
+- <p>Ir para o <a href="https://portifolio-flame-omega.vercel.app/"> site</a>
+- <p>Site do GitHub<a href="https://souzaseven.github.io/"> souzaseven.github.io </a>
+
+
+![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/souzaseven/onimur.svg" />
+</p>
+
+## Support me
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.paypal.com/donate/?business=XGXTB5VC9MZKQ&no_recurring=0&currency_code=BRL" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+  </a>
+<a href="https://www.paypal.com/donate/?business=XGXTB5VC9MZKQ&no_recurring=0&currency_code=BRL" target="_blank">
+      <img width="12%" alt="Donate with Paypal" src="https://github.com/souzaseven/souzaseven/blob/Desafios/QR%20Code%20paypal.png"/>
+  </a>
+</p>
+
+<!--gmail escuro 
+https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>
