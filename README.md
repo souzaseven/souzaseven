@@ -43,9 +43,20 @@ Here are some ideas to get you started:
   <a href="https://andersondsouza.blogspot.com/2017/02/comecando-do-zero.html" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
   <!--Whatsapp-->
   <a href="" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank></a>
+
+                            
 </div>
-<br><br><br>
-<br>
+
+
+
+
+
+
+
+
+
+
+
 
 Feito com ❤️ por Anderson
 <br>
@@ -53,11 +64,6 @@ Feito com ❤️ por Anderson
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
-
-
-
-
-
 
 
 
