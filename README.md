@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <!--Whatsapp-->
   <a href="https://wa.me/" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank></a>     
 
-</div>
+
 <br>##
                                             
 ##
