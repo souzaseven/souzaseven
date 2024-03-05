@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  </div>
 
  ##
 
@@ -43,15 +43,14 @@ Here are some ideas to get you started:
 </div>
 
 
-<div>
-<br><br><br>
 
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)
+## <br>Meu DashBoard <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 
-</div>
+
 
 ## Tecnologias que uso no meu dia 
 
