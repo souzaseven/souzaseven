@@ -96,7 +96,9 @@ I created these images, feel free to use them.
   <a href="https://www.paypal.com/donate/?business=XGXTB5VC9MZKQ&no_recurring=0&currency_code=BRL" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
   </a>
-
+<a href="https://www.paypal.com/donate/?business=XGXTB5VC9MZKQ&no_recurring=0&currency_code=BRL" target="_blank">
+      <img width="12%" alt="Donate with Paypal" src="https://github.com/souzaseven/souzaseven/blob/Desafios/QR%20Code%20paypal.png"/>
+  </a>
 </p>
 
 <!--gmail escuro 
