@@ -22,8 +22,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 
-
-
  ##
 
  <div> 
@@ -48,6 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 Feito com ❤️ por Anderson
 
