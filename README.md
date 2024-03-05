@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" top="0">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" top="0" right="0">
 
 ### Olá! Eu sou Anderson de Souza 👋🏼🤓
 Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
@@ -49,7 +49,6 @@ Feito com ❤️ por Anderson
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 
 
