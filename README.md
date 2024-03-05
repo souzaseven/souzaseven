@@ -45,11 +45,13 @@ Here are some ideas to get you started:
   <a href="" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank></a>
 </div>
 
+Feito com ❤️ por Anderson
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
-Feito com ❤️ por Anderson
+
 
 
 
