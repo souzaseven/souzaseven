@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" top="0" right="0">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" top="0" right="0">
 
 ### Olá! Eu sou Anderson de Souza 👋🏼🤓
 Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
   <!--Whatsapp-->
   <a href="" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank></a>                        
 </div>
-
-
-
+<br>
+<br>
+<br><br><br>
 
 ## <br>Meu DashBoard <br>
 
