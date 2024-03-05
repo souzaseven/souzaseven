@@ -1,4 +1,4 @@
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Olá! Eu sou Anderson de Souza 👋🏼🤓
 Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
@@ -7,6 +7,7 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 
 Here are some ideas to get you started:
 -->
+
 - 🔭 Atualmente trabalho como analista e estudante da area...
 - 🌱 Aprendendo sobre HTML,CSS,JavaScript,SQL,Python ...
 - 😄 Pronouns:ele/dele ...
