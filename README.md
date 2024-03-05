@@ -42,6 +42,7 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 
+<!--![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)-->
 
 ## Tecnologias que uso no meu dia 
 
@@ -65,7 +66,7 @@ Atualmente estou aprendendo a programar
 - <p>Site do GitHub<a href="https://souzaseven.github.io/"> souzaseven.github.io </a>
 
 
-![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
