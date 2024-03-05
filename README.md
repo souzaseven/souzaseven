@@ -75,11 +75,12 @@ Atualmente estou aprendendo a programar
 ## Projetos em desenvolvimento
 - <p>Projetos / Repositorio <a href="https://github.com/souzaseven?tab=repositories" target="blank">em Desenvolvimento </a>
 
+
 - <p>Cursos feitos/ <a href="https://github.com/souzaseven/Cursos" target=blank>  em andamento</a>
 
 - <p>Ir para o <a href="https://portifolio-flame-omega.vercel.app/"> site
 
-
+![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--gmail escuro 
