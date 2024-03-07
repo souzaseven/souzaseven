@@ -42,7 +42,7 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 
-<!--![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)-->
+
 
 ## Tecnologias que uso no meu dia 
 
@@ -90,4 +90,10 @@ I created these images, feel free to use them.
 </p>
 
 <!--gmail escuro 
-https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>
+https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
+
+![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.gif)
+
+
+[![readme](https://github.readme-stats.versel,app/api/pin/?souzaseven=souzaseven&repo=souzaseven&theme=react)](https:github.com/souzaseven/souzaseven)
