@@ -91,6 +91,11 @@ I created these images, feel free to use them.
 </p>
 
 ![snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake2.svg)
+
+![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=souzaseven&repo=souzaseven&theme=react)](https://github.com/souzaseven/souzaseven)
 <!--gmail escuro 
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
 
