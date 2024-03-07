@@ -43,7 +43,13 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 
-
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/souzaseven/onimur.svg" />
+</p>
 ## Tecnologias que uso no meu dia 
 
 <div style="display: inlineblock"><br/>
@@ -64,22 +70,6 @@ Atualmente estou aprendendo a programar
 - <p>Cursos feitos/ <a href="https://github.com/souzaseven/Cursos" target=blank>  em andamento</a>
 - <p>Ir para o <a href="https://portifolio-flame-omega.vercel.app/"> site</a>
 - <p>Site do GitHub<a href="https://souzaseven.github.io/"> souzaseven.github.io </a>
-
-
-
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/souzaseven/onimur.svg" />
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/souzaseven/count.svg" />
-</p>
 
 ## Support me
 <!-- Your support, if you have it 
@@ -107,6 +97,11 @@ I created these images, feel free to use them.
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=souzaseven&repo=souzaseven&theme=react)](https://github.com/souzaseven/souzaseven)
 <!--gmail escuro 
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/souzaseven/count.svg" />
+</p>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
