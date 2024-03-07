@@ -102,4 +102,8 @@ I created these images, feel free to use them.
 <!--gmail escuro 
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
+</h1>
+
 
