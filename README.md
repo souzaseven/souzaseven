@@ -77,6 +77,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/souzaseven/onimur.svg" />
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/souzaseven/count.svg" />
+</p>
+
 ## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
@@ -91,6 +96,8 @@ I created these images, feel free to use them.
 </p>
 
 ![](https://raw.githubusercontent.com/souzaseven/souzaseven/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 ![snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake2.svg)
