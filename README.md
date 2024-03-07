@@ -44,7 +44,6 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 
 
-
 ## Tecnologias que uso no meu dia 
 
 <div style="display: inlineblock"><br/>
