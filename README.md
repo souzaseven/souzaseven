@@ -99,7 +99,7 @@ I created these images, feel free to use them.
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
 
 <p align="center"> 
-  Visitor count<br>
+  Contagem de visitantes<br>
   <img src="https://profile-counter.glitch.me/souzaseven/count.svg" />
 </p>
 
