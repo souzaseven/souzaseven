@@ -93,7 +93,5 @@ I created these images, feel free to use them.
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
 
 ![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.gif)
 
-
-[![readme](https://github.readme-stats.versel,app/api/pin/?souzaseven=souzaseven&repo=souzaseven&theme=react)](https:github.com/souzaseven/souzaseven)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=souzaseven&repo=souzaseven&theme=react)](https:github.com/souzaseven/souzaseven)
