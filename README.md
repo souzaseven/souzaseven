@@ -90,9 +90,12 @@ I created these images, feel free to use them.
   </a>
 </p>
 
+![](https://raw.githubusercontent.com/souzaseven/souzaseven/output/github-contribution-grid-snake.svg)
+
+<!--
 ![snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake2.svg)
 
-![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)-->
 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=souzaseven&repo=souzaseven&theme=react)](https://github.com/souzaseven/souzaseven)
