@@ -1,8 +1,4 @@
 
-![snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake2.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=souzaseven&repo=souzaseven&theme=react)](https:github.com/souzaseven/souzaseven)
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" top="0" right="0">
 
 ### Olá! Eu sou Anderson de Souza 👋🏼🤓
@@ -94,6 +90,7 @@ I created these images, feel free to use them.
   </a>
 </p>
 
+![snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake2.svg)
 <!--gmail escuro 
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
 
