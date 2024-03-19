@@ -44,7 +44,16 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 ## Meu DashBoard 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)
+
+<div align="right", top='0'>
+  <a href="https://github.com/souzaseven">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&layout=compact&langs_count=9&theme=dark&locale=pt-br"/>
+  </a>
+</div>
+
+
+
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
@@ -86,10 +95,6 @@ I created these images, feel free to use them.
       <img width="12%" alt="Donate with Paypal" src="https://github.com/souzaseven/souzaseven/blob/Desafios/QR%20Code%20paypal.png"/>
   </a>
 </p>
-
-![](https://raw.githubusercontent.com/souzaseven/souzaseven/output/github-contribution-grid-snake.svg)
-
-
 
 <!--
 ![snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake2.svg)
