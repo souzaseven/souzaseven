@@ -60,11 +60,11 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 
 
 
-
+<!--
 < Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
-
+-->
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/souzaseven/onimur.svg" />
 </p>
