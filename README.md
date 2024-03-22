@@ -42,14 +42,20 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 ##
 
 ## Meu DashBoard 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br) 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)
-
-<div align="right", top='0'>
+-->
+<!--<div align="right", top='0'>
   <a href="https://github.com/souzaseven">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&layout=compact&langs_count=9&theme=dark&locale=pt-br"/>
   </a>
+</div>-->
+
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&layout=compact&langs_count=9&theme=dark&locale=pt-br"/>
 </div>
 
 
@@ -106,7 +112,7 @@ I created these images, feel free to use them.
 <!--gmail escuro 
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
 
-<p align="center"> 
+<p align="top"> 
   Contagem de visitantes<br>
   <img src="https://profile-counter.glitch.me/souzaseven/count.svg" />
 </p>
