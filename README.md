@@ -61,13 +61,13 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 
 
 
-<!-- Your hits or visitors
+< Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/souzaseven/onimur.svg" />
-</p>-->
+</p>
 ## Tecnologias que uso no meu dia 
 
 <div style="display: inlineblock"><br/>
@@ -107,11 +107,11 @@ I created these images, feel free to use them.
 
 ![Snake animation](https://github.com/souzaseven/souzaseven/blob/output/github-contribution-grid-snake.svg)-->
 
-
+<!--
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=souzaseven&repo=souzaseven&theme=react)](https://github.com/souzaseven/souzaseven)
 <!--gmail escuro 
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
-
+<br>
 <p align="center"> 
   Contagem de visitantes<br>
   <img src="https://profile-counter.glitch.me/souzaseven/count.svg" />
@@ -119,6 +119,7 @@ https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&am
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
+
 </h1>
 
 
