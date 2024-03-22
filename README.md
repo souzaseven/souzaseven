@@ -64,10 +64,10 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
+
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/souzaseven/onimur.svg" />
-</p>
+</p>-->
 ## Tecnologias que uso no meu dia 
 
 <div style="display: inlineblock"><br/>
@@ -112,7 +112,7 @@ I created these images, feel free to use them.
 <!--gmail escuro 
 https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white>-->
 
-<p align="top"> 
+<p align="center"> 
   Contagem de visitantes<br>
   <img src="https://profile-counter.glitch.me/souzaseven/count.svg" />
 </p>
