@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" top="0" right="0">
  
 ### Olá! Eu sou Anderson de Souza 👋🏼🤓  
-Futuro desenvolvedor FULL STACK 💻👨🏼‍💻  
+Futuro desenvolvedor FULL STACK 💻👨🏼‍💻   
  
     
 - 🔭 Atualmente trabalho como analista e estudante da area...
