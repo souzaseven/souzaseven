@@ -96,9 +96,10 @@ I created these images, feel free to use them.
 <p align="center">
   <a href="https://www.paypal.com/donate/?business=XGXTB5VC9MZKQ&no_recurring=0&currency_code=BRL" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>-->
-<a href="https://www.paypal.com/donate/?business=XGXTB5VC9MZKQ&no_recurring=0&currency_code=BRL" target="_blank">
-      <img width="12%" alt="Donate with Paypal" src="https://github.com/souzaseven/souzaseven/blob/Desafios/QR%20Code%20paypal.png"/>
+  </a>
+<a href="https://www.paypal.com/donate/?business=XGXTB5VC9MZKQ&no_recurring=0&currency_code=BRL" target="_blank">-->
+   <a href="https://nubank.com.br/cobrar/vg7s0/668ac422-d5dc-41e0-ae74-3e9431676e83" target="_blank">
+      <img width="12%" alt="QrCode" src="https://github.com/souzaseven/souzaseven/blob/Desafios/chave%20aleato.png"/>
   </a>
 </p>
 
