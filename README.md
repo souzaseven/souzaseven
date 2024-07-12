@@ -103,9 +103,6 @@ I created these images, feel free to use them.
   </a>
 </p>
 
-<p>
-      <a href="link.mercadopago.com.br/anderson1souza" target="_blank">Link de pagamento</a>
-</p>
 
 
 <!--
