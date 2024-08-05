@@ -87,7 +87,8 @@ Atualmente estou aprendendo a programar
 - <p>Projetos / Repositorio <a href="https://github.com/souzaseven?tab=repositories" target="blank">em Desenvolvimento </a>
 
 - <p>Cursos feitos/ <a href="https://github.com/souzaseven/Cursos" target=blank>  em andamento</a>
-- <p>Ir para o <a href="https://portifolio-flame-omega.vercel.app/"> site</a>
+- <p>Ir para o <a href="https://portifolio-flame-omega.vercel.app/"> site teste</a>
+- <p>Ir para o <a href="https://souzaseven.github.io/Site2/#"> site novo</a>
 - <p>Site do GitHub<a href="https://souzaseven.github.io/"> souzaseven.github.io </a>
 
 ## Support me
