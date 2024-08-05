@@ -126,10 +126,5 @@ https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&am
 
 </h1>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6176119186804571"
-     crossorigin="anonymous"></script>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6176119186804571"
-     crossorigin="anonymous"></script>
 
 
