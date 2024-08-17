@@ -73,10 +73,6 @@ Apaixonado por tecnologia, educação e por poder proporcionar momentos importan
 <!--
 <img src="https://u8views.com/api/v1/github/profiles/souzaseven/views/day-week-month-total-count.svg" alt="Visualizações de perfil do souzaseven" style="max-width: 100%;">-->
 
-<img src="https://profile-counter.glitch.me/souzaseven/count.svg" alt="Contador de perfil do souzaseven" style="max-width: 100%;">
-
-<img align="center" alt="Obrigado" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!" />
-
 
 ## 🏆 Troféus do GitHub
 
