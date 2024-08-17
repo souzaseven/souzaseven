@@ -57,7 +57,7 @@ Apaixonado por tecnologia, educação e por poder proporcionar momentos importan
 
 - Cursos feitos/ em andamento 
 
-- Ir para o [site](https://portifolio-flame-omega.vercel.app/)
+- Ir para o [site](https://souzaseven.github.io/Site2/index.html)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souzaseven/souzaseven/output/github-contribution-grid-snake-dark.svg">
