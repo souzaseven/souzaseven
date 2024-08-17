@@ -60,21 +60,23 @@ Apaixonado por tecnologia, educação e por poder proporcionar momentos importan
 
 - Ir para o [site](https://souzaseven.github.io/Site2/index.html)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souzaseven/souzaseven/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souzaseven/souzaseven/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/souzaseven/souzaseven/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"><!--
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">-->
 </picture>
 
 
-<img align="center" src="https://camo.githubusercontent.com/a3ee5eeb3e851b3d0f97bba3cf4b86ab77a0eb3bc750cd666dcb72b4db159a91/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7269736861766368616e646126267468656d653d746f6b796f6e69676874" alt="souzaseven" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=souzaseven&amp;&amp;theme=tokyonight" style="max-width: 100%;">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souzaseven&theme=tokyonight&locale=pt-br" alt="Estatísticas de streaks do souzaseven" style="max-width: 100%;">
+<!--
+<img src="https://u8views.com/api/v1/github/profiles/souzaseven/views/day-week-month-total-count.svg" alt="Visualizações de perfil do souzaseven" style="max-width: 100%;">-->
 
-<img src="https://camo.githubusercontent.com/9fd5a0d76771de38da69eb5ef47fff76fff3cfb82f472ae57a5fc549d4aae373/68747470733a2f2f753876696577732e636f6d2f6170692f76312f6769746875622f70726f66696c65732f373836393334342f76696577732f6461792d7765656b2d6d6f6e74682d746f74616c2d636f756e742e737667" alt="Maksym Rudnyi profile views" data-canonical-src="https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg" style="max-width: 100%;">
+<img src="https://profile-counter.glitch.me/souzaseven/count.svg" alt="Contador de perfil do souzaseven" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/14f101b2c7c6b18202044d4e78eb0b61b32ef5d4ecabca4eecd600c3393e5d88/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f466f726d616e646f6465762f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/souzaseven/count.svg" style="max-width: 100%;">
+<img align="center" alt="Obrigado" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!" />
+
+
+
+
