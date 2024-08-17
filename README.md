@@ -78,5 +78,13 @@ Apaixonado por tecnologia, educação e por poder proporcionar momentos importan
 <img align="center" alt="Obrigado" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!" />
 
 
+## 🏆 Troféus do GitHub
+
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=souzaseven&theme=radical)
+
+
+
+
+
 
 
