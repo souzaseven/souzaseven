@@ -34,27 +34,19 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/anderson.desouza.5661/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <!--TikTok-->
   <a href="https://www.tiktok.com/@andersondesouza09?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<!--Discord-->
-   <a href="[https://discord.gg/wagxzStdcR](https://discord.com/)](https://discord.com/)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <!--Gmail-->
   <a href = "mailto:souza5661.7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <!--LinkedIn-->
-  <a href="https://www.linkedin.com/in/anderson-s-352605137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anderson-s-352605137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <!--Blog-->
   <a href="https://andersondsouza.blogspot.com/2017/02/comecando-do-zero.html" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
-  <!--Whatsapp-->
-  <a href="" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank></a>
+  <!--Whatsapp
+  <a href="" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank></a>-->
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)<br>
 Feito com ❤️ por Anderson
-
-
-
-
 
 
 
