@@ -72,7 +72,6 @@ Apaixonado por tecnologia, educação e por poder proporcionar momentos importan
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-# github-profile-summary-cards-example
 
 :star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
