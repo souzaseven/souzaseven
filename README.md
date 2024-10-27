@@ -1,5 +1,5 @@
 ### Olá! Eu sou Anderson de Souza 👋🏼🤓  <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-Futuro desenvolvedor FULL STACK 💻👨🏼‍💻  
+Futuro desenvolvedor FULL STACK 💻👨🏼‍💻   
    
 - 🔭 Atualmente trabalho como analista e estudante da área... 
 - 🌱 Aprendendo sobre HTML, CSS, JavaScript, SQL, Python...
