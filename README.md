@@ -1,4 +1,4 @@
-### Olá! Eu sou Anderson de Souza 👋🏼🤓  <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### Olá! Eu sou Anderson de Souza 👋🏼🤓  <img align="right" alt="code" width="400" src="https://github.com/souzaseven/souzaseven/blob/Desafios/code.gif">
 Futuro desenvolvedor FULL STACK 💻👨🏼‍💻   
    
 - 🔭 Atualmente trabalho como analista e estudante da área... 
@@ -59,7 +59,7 @@ Feito com ❤️ por Anderson
 </div>
 
 Apaixonado por tecnologia, educação e por poder proporcionar momentos importantes para as pessoas! Atualmente estou aprendendo a programar.
-<img align="right" alt="code" width="400" src="https://github.com/souzaseven/souzaseven/blob/Desafios/code.gif">
+<!--<img align="right" alt="code" width="400" src="https://github.com/souzaseven/souzaseven/blob/Desafios/code.gif">-->
 
 ## Projetos em desenvolvimento
 
