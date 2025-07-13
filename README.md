@@ -89,12 +89,14 @@ Apaixonado por tecnologia, educação e por poder proporcionar momentos importan
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=souzaseven&theme=radical)
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Obrigado+pela+visita!;">
-
+<!--
 <p> 
             Contagem de visitantes<br>
             <img src="https://profile-counter.glitch.me/souzaseven/count.svg">
           </p>
-
+-->
+<div style="display: flex; justify-content: center; margin: 10px 0;">
+  <img alt="visitas" src="https://hits.sh/https://github.com/souzaseven.html.svg?color=007ced&label=visitas&labelColor=FFFFFF&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsouzaseven%2Ftgahelpme%2FDesafios%2Ficon%2520bot%2520tga.ico"/>
 
 
 
