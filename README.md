@@ -6,7 +6,7 @@ Futuro desenvolvedor FULL STACK 💻👨🏼‍💻
 - 🌱 Aprendendo sobre HTML, CSS, JavaScript, SQL, Python... 
 - 😄 Pronouns: ele/dele...      
                    
-<div>    
+<div>     
   <a href='https://github.com/souzaseven'></a>
 </div>   
 <br>
