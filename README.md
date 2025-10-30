@@ -1,6 +1,7 @@
 ### Olá! Eu sou Anderson de Souza 👋🏼🤓  
 <img align="right" alt="code" width="400" src="https://github.com/souzaseven/souzaseven/blob/Desafios/code.gif">
-Futuro desenvolvedor FULL STACK 💻👨🏼‍💻   
+Futuro desenvolvedor FULL STACK 💻👨🏼‍💻    
+
         
 - 🔭 Atualmente trabalho como analista e estudante da área...    
 - 🌱 Aprendendo sobre HTML, CSS, JavaScript, SQL, Python... 
