@@ -40,9 +40,11 @@ Sou apaixonado por:
 
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FFCC00?style=for-the-badge&logo=firebird&logoColor=black)
 
 ### 🤖 IA & Ferramentas
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00000F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
