@@ -1,107 +1,120 @@
-### Olá! Eu sou Anderson de Souza 👋🏼🤓  
-<img align="right" alt="code" width="400" src="https://github.com/souzaseven/souzaseven/blob/Desafios/code.gif">
-Futuro desenvolvedor FULL STACK 💻👨🏼‍💻    
+# 👋 Olá! Eu sou Anderson de Souza
 
-        
-- 🔭 Atualmente trabalho como analista e estudante da área...    
-- 🌱 Aprendendo sobre HTML, CSS, JavaScript, SQL, Python... 
-- 😄 Pronouns: ele/dele...       
-                     
-<div>     
-  <a href='https://github.com/souzaseven'></a>
-</div>   
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Anderson-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Anderson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-<!--
-  <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="center" alt="DeepSeek-AI" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg">
-
-</div>
- 
-##
-
-<div> 
-  <!--YouTube-->
-  <a href="https://www.youtube.com/channel/UCfm72qf2H8ze39A9mSAq-yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!--Instagram-->
-  <a href="https://www.instagram.com/andersondsouza7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!--Facebook-->
-  <a href="https://www.facebook.com/anderson.desouza.5661/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <!--TikTok-->
-  <a href="https://www.tiktok.com/@andersondesouza09?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-  <!--Gmail-->
-  <a href="mailto:souza5661.7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <!--LinkedIn-->
-  <a href="https://www.linkedin.com/in/anderson-s-352605137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--Blog-->
-  <a href="https://andersondsouza.blogspot.com/2017/02/comecando-do-zero.html" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br)
-
-Feito com ❤️ por Anderson
-
-## Tecnologias que uso no meu dia a dia
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00000F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-
+<div align="center">
+  <img alt="Developer" width="500" src="https://github.com/souzaseven/souzaseven/blob/Desafios/code.gif">
+  
+  **Desenvolvedor Full Stack em Formação** | Apaixonado por Tecnologia & Educação
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-s-352605137)
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souza5661.7@gmail.com)
+  [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souzaseven)
 
 </div>
 
-Apaixonado por tecnologia, educação e por poder proporcionar momentos importantes para as pessoas! Atualmente estou aprendendo a programar.
-<!--<img align="right" alt="code" width="400" src="https://github.com/souzaseven/souzaseven/blob/Desafios/code.gif">-->
+---
 
-## Projetos em desenvolvimento
+## 🎯 Sobre Mim
 
-- [Projetos / Repositório em Desenvolvimento](https://github.com/souzaseven?tab=repositories)
+Sou um **desenvolvedor em formação** com foco em desenvolvimento **Full Stack**. Trabalho como analista enquanto aprofundo meus conhecimentos em programação. 
 
-- Cursos feitos/ em andamento 
+Sou apaixonado por:
+- 💻 Criar soluções através da tecnologia
+- 📚 Educação e aprendizado contínuo
+- 🤝 Ajudar pessoas através de projetos impactantes
+- 🚀 Inovar e explorar novas tecnologias
 
-- Ir para o [site](https://souzaseven.github.io/Site2/index.html)
+**Objetivo:** Tornar-me um desenvolvedor Full Stack competente, criando aplicações que façam a diferença! 
 
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"><!--
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">-->
-</picture>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🔧 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souzaseven&theme=tokyonight&locale=pt-br" alt="Estatísticas de streaks do souzaseven" style="max-width: 100%;">
-<!--
-<img src="https://u8views.com/api/v1/github/profiles/souzaseven/views/day-week-month-total-count.svg" alt="Visualizações de perfil do souzaseven" style="max-width: 100%;">-->
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖 IA & Ferramentas
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00000F?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏆 Troféus do GitHub
+---
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=souzaseven&theme=radical)
+## 📚 Aprendizado Contínuo
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Obrigado+pela+visita!;">
-<!--
-<p> 
-            Contagem de visitantes<br>
-            <img src="https://profile-counter.glitch.me/souzaseven/count.svg">
-          </p>
--->
-<div style="display: flex; justify-content: center; margin: 10px 0;">
-  <img alt="visitas" src="https://hits.sh/https://github.com/souzaseven.html.svg?color=007ced&label=visitas&labelColor=FFFFFF&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsouzaseven%2Ftgahelpme%2FDesafios%2Ficon%2520bot%2520tga.ico"/>
+🌱 **Atualmente estudando:**
+- ✅ HTML, CSS e JavaScript (Web Development)
+- ✅ PHP e MySQL (Backend Development)
+- ✅ Python (Programação Geral)
+- 🔄 Frameworks e Bibliotecas (próximos passos)
+- 🔄 Versionamento com Git & GitHub
 
+---
 
+## 🚀 Projetos em Desenvolvimento
 
+Confira todos os meus projetos e repositórios:
 
+- 📂 **[Repositórios GitHub](https://github.com/souzaseven?tab=repositories)** - Acesse meus projetos em desenvolvimento
+- 🌐 **[Meu Site](https://souzaseven.github.io/Site2/index.html)** - Portfolio e projetos pessoais
 
+---
 
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzaseven&theme=blue-green&locale=pt-br&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaseven&theme=blue-green&locale=pt-br&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souzaseven&theme=tokyonight&locale=pt-br&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=souzaseven&theme=radical&no-frame=true)
+
+---
+
+## 📱 Conecte-se Comigo
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfm72qf2H8ze39A9mSAq-yg)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersondsouza7/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@andersondesouza09?lang=pt-BR)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anderson.desouza.5661/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-s-352605137)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://andersondsouza.blogspot.com/2017/02/comecando-do-zero.html)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souza5661.7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;Vamos+programar+juntos!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img alt="Visitas" src="https://hits.sh/https://github.com/souzaseven.html.svg?color=007ced&label=visitas&labelColor=FFFFFF&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsouzaseven%2Ftgahelpme%2FDesafios%2Ficon%2520bot%2520tga.ico"/>
+</div>
+
+---
+
+<div align="center">
+  <strong>Feito com ❤️ por Anderson de Souza</strong>
+  <br><br>
+  <em>"A melhor maneira de prever o futuro é implementá-lo" - David Heinemeier Hansson</em>
+</div>
