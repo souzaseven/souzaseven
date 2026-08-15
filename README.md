@@ -3,7 +3,7 @@
 <img alt="Developer" width="500" src="https://raw.githubusercontent.com/souzaseven/souzaseven/main/code.gif">
 
 # Olá, eu sou o Anderson de Souza 👋
-
+ 
 ### Analista em transição para Desenvolvedor Full Stack | Tecnologia com propósito educacional
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+em+forma%C3%A7%C3%A3o;PHP+%7C+Python+%7C+JavaScript;Aprendendo+todos+os+dias+um+pouco+mais" alt="Typing SVG" />
