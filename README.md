@@ -2,7 +2,7 @@
 
 <img alt="Developer" width="500" src="https://raw.githubusercontent.com/souzaseven/souzaseven/main/code.gif">
 
-# Olá, eu sou o Anderson de Souza 👋   
+# Olá, eu sou o Anderson de Souza 👋    
  
 ### Analista em transição para Desenvolvedor Full Stack | Tecnologia com propósito educacional
 
