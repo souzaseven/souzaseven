@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # todo dia à meia-noite (UTC)
   workflow_dispatch:
+  push:
+    branches: [Desafios]
+    paths: [".github/workflows/snake.yml"] # roda na hora quando este arquivo muda
 
 # Sem esta permissão o GITHUB_TOKEN não consegue criar/atualizar a branch "output"
 permissions:
