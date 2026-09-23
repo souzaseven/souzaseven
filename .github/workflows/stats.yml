@@ -1,0 +1,57 @@
+name: Atualizar cards de estatísticas
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 06:00 UTC (03:00 em Brasília)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats (tema claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: '{"username":"souzaseven","show_icons":true,"hide_rank":true,"include_all_commits":true,"hide_border":true,"locale":"pt-br","theme":"default"}'
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats (tema escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: '{"username":"souzaseven","show_icons":true,"hide_rank":true,"include_all_commits":true,"hide_border":true,"locale":"pt-br","theme":"github_dark"}'
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # size_weight/count_weight equilibram tamanho x quantidade de repositórios,
+      # para o portal com muito HTML não dominar o gráfico sozinho.
+      - name: Linguagens (tema claro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: '{"username":"souzaseven","layout":"compact","langs_count":6,"size_weight":0.5,"count_weight":0.5,"hide":"rich text format,tex,hack,batchfile","hide_border":true,"locale":"pt-br","theme":"default"}'
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Linguagens (tema escuro)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: '{"username":"souzaseven","layout":"compact","langs_count":6,"size_weight":0.5,"count_weight":0.5,"hide":"rich text format,tex,hack,batchfile","hide_border":true,"locale":"pt-br","theme":"github_dark"}'
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit dos cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualiza cards de estatísticas" || exit 0
+          git push
