@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Anderson De Souza  , Rank: C+</title>
-        <desc id="descId">Total de estrelas: 1, Total de Commits  : 2094, Total de PRs: 3, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 1, Total de Commits  : 2095, Total de PRs: 3, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 213.1447594452615;
+        stroke-dashoffset: 213.1379610446451;
       }
     }
   
