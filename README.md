@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anderson de Souza
+# Anderson de Souza 
 
 **Analista em transição para Desenvolvedor Full Stack**<br>
 Sistemas ERP · Firebird/SQL · PHP · JavaScript · Python
